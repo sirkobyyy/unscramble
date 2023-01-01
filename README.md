@@ -7,9 +7,11 @@ A dictionary game that lets the user guess unscrambled words from a Dictionary A
 A hint button is available whenever the user needs a help in guessing the current word. It displays its definition, synonyms, and what part of speech it is. 
 
 User Interface:
+
 Difficulty Page
 
 ![image](https://user-images.githubusercontent.com/54466614/210173627-a7f150d6-5f59-4aa9-a18d-16739164ec6b.png)
+
 Loading the Words...
 
 ![image](https://user-images.githubusercontent.com/54466614/210173721-121e8a59-0b7c-44ef-a8e2-9ebdf9a7a09a.png)
