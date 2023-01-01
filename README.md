@@ -8,15 +8,24 @@ A hint button is available whenever the user needs a help in guessing the curren
 
 User Interface:
 Difficulty Page
+
 ![image](https://user-images.githubusercontent.com/54466614/210173627-a7f150d6-5f59-4aa9-a18d-16739164ec6b.png)
 Loading the Words...
+
 ![image](https://user-images.githubusercontent.com/54466614/210173721-121e8a59-0b7c-44ef-a8e2-9ebdf9a7a09a.png)
+
 Example of a round (Answer: Lately)
+
 ![image](https://user-images.githubusercontent.com/54466614/210173733-1375dc15-ed6f-4220-b495-f7997c456ea1.png)
+
 Hint:
+
 ![image](https://user-images.githubusercontent.com/54466614/210173762-ac0e89f8-8a60-42be-b4e9-a6c4487acd43.png)
+
 Results Page:
+
 ![image](https://user-images.githubusercontent.com/54466614/210173778-b0adca09-c77d-4913-94b6-8a14e99235b9.png)
+
 
 ## Getting Started
 
