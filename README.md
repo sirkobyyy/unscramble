@@ -1,6 +1,6 @@
 # dictionary_game
 
-A Dictionary Game
+A dictionary game that lets the user guess unscrambled words from a Dictionary API
 
 ## Getting Started
 
